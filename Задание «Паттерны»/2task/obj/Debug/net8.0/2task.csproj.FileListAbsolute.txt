@@ -1,0 +1,14 @@
+C:\Users\Paren B\source\repos\2task\bin\Debug\net8.0\2task.exe
+C:\Users\Paren B\source\repos\2task\bin\Debug\net8.0\2task.deps.json
+C:\Users\Paren B\source\repos\2task\bin\Debug\net8.0\2task.runtimeconfig.json
+C:\Users\Paren B\source\repos\2task\bin\Debug\net8.0\2task.dll
+C:\Users\Paren B\source\repos\2task\bin\Debug\net8.0\2task.pdb
+C:\Users\Paren B\source\repos\2task\obj\Debug\net8.0\2task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paren B\source\repos\2task\obj\Debug\net8.0\2task.AssemblyInfoInputs.cache
+C:\Users\Paren B\source\repos\2task\obj\Debug\net8.0\2task.AssemblyInfo.cs
+C:\Users\Paren B\source\repos\2task\obj\Debug\net8.0\2task.csproj.CoreCompileInputs.cache
+C:\Users\Paren B\source\repos\2task\obj\Debug\net8.0\2task.dll
+C:\Users\Paren B\source\repos\2task\obj\Debug\net8.0\refint\2task.dll
+C:\Users\Paren B\source\repos\2task\obj\Debug\net8.0\2task.pdb
+C:\Users\Paren B\source\repos\2task\obj\Debug\net8.0\2task.genruntimeconfig.cache
+C:\Users\Paren B\source\repos\2task\obj\Debug\net8.0\ref\2task.dll
